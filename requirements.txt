@@ -1,0 +1,12 @@
+flask
+flask_socketio
+torch
+transformers
+librosa
+pydub
+numpy
+scipy
+soundfile
+rapidfuzz
+flask-cors
+eventlet
